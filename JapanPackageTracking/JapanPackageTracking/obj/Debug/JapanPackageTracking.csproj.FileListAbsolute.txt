@@ -1,0 +1,10 @@
+C:\Sample\JapanPackageTracking\JapanPackageTracking\bin\Debug\JapanPackageTracking.exe.config
+C:\Sample\JapanPackageTracking\JapanPackageTracking\bin\Debug\JapanPackageTracking.exe
+C:\Sample\JapanPackageTracking\JapanPackageTracking\bin\Debug\JapanPackageTracking.pdb
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.csprojAssemblyReference.cache
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.frmJapanPackageTracking.resources
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.Properties.Resources.resources
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.csproj.GenerateResource.cache
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.csproj.CoreCompileInputs.cache
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.exe
+C:\Sample\JapanPackageTracking\JapanPackageTracking\obj\Debug\JapanPackageTracking.pdb
